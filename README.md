@@ -1,6 +1,6 @@
 # CS439 - Assignment 3
 # 2021665 - Tahir Muzaffar
-# Netflix EDA with Apache Spark
+# Netflix TV Shows & Movies dataset EDA with Apache Spark
 
 This repository contains the implementation of Exploratory Data Analysis (EDA) on the **Netflix TV Shows & Movies dataset** using **Apache Spark** with **Scala**. The goal is to analyze the dataset and generate various insights such as content distribution, genre analysis, and more. The project runs in a **Dockerized** environment, using Apache Spark to perform the data processing.
 
