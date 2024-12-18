@@ -12,8 +12,8 @@ This repository contains the implementation of Exploratory Data Analysis (EDA) o
 - **VS Code** or any preferred code editor.
 - Clone this repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/your-username/netflix-eda-spark.git
-   cd netflix-eda-spark
+   git clone [https://github.com/your-username/netflix-eda-spark.git](https://github.com/TahirMuzaffar/2021665-TahirMuzaffar-DS-Assignment3.git)
+   cd 2021665-TahirMuzaffar-DS-Assignment3
    ```
 
 ## How to Run the Project
