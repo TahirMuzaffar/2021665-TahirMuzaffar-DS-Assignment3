@@ -56,7 +56,7 @@ This repository contains the implementation of Exploratory Data Analysis (EDA) o
 - **Top 10 Directors by Content Count:** Results saved in `results/top_directors.csv`. This CSV file lists the top 10 directors with the highest number of movies or TV shows in the dataset.
 - **Top 10 Actors/Actresses by Appearances:** Results saved in `results/top_actors.csv`. This CSV file shows the top 10 actors and actresses based on the number of appearances in the dataset.
 
-## Any Additional Notes
+## Additional Notes
 
 - **Docker Volumes:** The results will be available on your local machine in the `results` directory. Make sure to map the volumes correctly when running the container to ensure the results are saved in the appropriate location.
 - **Dataset Modifications:** If you want to modify the dataset (e.g., cleaning missing values, transforming data), you can do so inside the `DS_EDA.scala` file before running the project. Any transformations or preprocessing steps can be added in this file.
